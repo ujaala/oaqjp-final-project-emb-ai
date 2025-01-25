@@ -42,7 +42,6 @@ def emotion_detector(text_to_analyse):  # Define a function named emotion_detect
     }
     
     return result  # Return the final result dictionary
-
 # Example usage
 if __name__ == "__main__":
     text_to_analyse = "I am so happy I am doing this."
